@@ -1,0 +1,18 @@
+{
+    "id": "nellie_ch1_demo1",
+    "name": "Nellie Tale Chapter 1",
+    "subtitle": "A new story...",
+
+    "version": "v0.0.1",
+    "engineVer": "v0.6.1",
+
+    "chapter": 2,
+
+    "map": "room1",
+    "party": ["nellie"],
+    "inventory": {
+        "items": ["darkburger", "darkburger", "ultimate_candy"],
+        "key_items": ["cell_phone"]
+    }
+}
+
